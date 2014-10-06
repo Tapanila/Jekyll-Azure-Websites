@@ -1,0 +1,3 @@
+[submodule "portableJekyllTapanila"]
+	path = portableJekyllTapanila
+	url = https://github.com/tapanila/PortableJekyll.git
